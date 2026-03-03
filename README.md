@@ -3,5 +3,5 @@
 
 ## Installation
 ```bash
-iwr -useb https://raw.githubusercontent.com/MeetBhingradiya/ForkStore-IDM/main/IAS.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/MeetBhingradiya/Modified-ForkStore-IDM/main/IAS.ps1 | iex
 ```
