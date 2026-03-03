@@ -8,7 +8,7 @@
 ::
 ::   IDM Activation Script (IAS)
 ::
-::   Homepages: https://github.com/MeetBhingradiya/ForkStore-IDM-Activation-Script
+::   Homepages: https://github.com/MeetBhingradiya/Modified-ForkStore-IDM
 ::              https://t.me/ModByPiash/5
 ::
 ::       Telegram: @Stripe_op
@@ -63,7 +63,7 @@ exit /b
 ::========================================================================================================================================
 
 set "blank="
-set "mas=https://github.com/MeetBhingradiya/ForkStore-IDM-Activation-Script/wiki/"
+set "mas=https://github.com/MeetBhingradiya/Modified-ForkStore-IDM/wiki/"
 
 ::  Check if Null service is working, it's important for the batch script
 
@@ -913,4 +913,5 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
+
 
